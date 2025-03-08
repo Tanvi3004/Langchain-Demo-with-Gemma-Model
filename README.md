@@ -59,6 +59,9 @@ streamlit run app.py
 ```bash
 pip install -r requirements.txt
 ```
+### Streamlit App
+This is how the app looks when running:
+
 ## Contributing
 Feel free to contribute to this project by opening issues or submitting pull requests. Your contributions are welcome!
 
