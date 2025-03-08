@@ -61,6 +61,7 @@ pip install -r requirements.txt
 ```
 ### Streamlit App
 This is how the app looks when running:
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/7971aedc-7810-495f-b553-387965f0ccc2" />
 
 ## Contributing
 Feel free to contribute to this project by opening issues or submitting pull requests. Your contributions are welcome!
