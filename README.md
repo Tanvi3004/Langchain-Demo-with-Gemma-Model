@@ -33,6 +33,7 @@ pip install -r requirements.txt
 1.**Clone the Repository:**
 ```bash
 git clone https://github.com/Tanvi3004/Langchain-Demo-with-Gemma-Model.git
+cd Langchain-Demo-with-Gemma-Model
 ```
 2.**Run the Streamlit Application:**
 ```bash
